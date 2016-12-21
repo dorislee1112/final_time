@@ -1,0 +1,724 @@
+loop: 0, upload size: 2048
+read: 0.000004 sec
+write: 0.000084 sec
+total time: 0.000088 sec
+=====================================
+loop: 1, upload size: 2048
+read: 0.000001 sec
+write: 0.000050 sec
+total time: 0.000051 sec
+=====================================
+loop: 2, upload size: 2048
+read: 0.000001 sec
+write: 0.000024 sec
+total time: 0.000025 sec
+=====================================
+loop: 3, upload size: 1381
+read: 0.000002 sec
+write: 0.000129 sec
+total time: 0.000131 sec
+=====================================
+
+a file finishing
+
+loop: 0, upload size: 10
+read: 0.000002 sec
+write: 0.000115 sec
+total time: 0.000117 sec
+=====================================
+loop: 1, download size: 36
+read: 0.000006 sec
+write: 0.000021 sec
+total time: 0.000027 sec
+=====================================
+loop: 2, upload size: 10
+read: 0.000002 sec
+write: 0.000104 sec
+total time: 0.000106 sec
+=====================================
+loop: 3, download size: 30
+read: 0.000008 sec
+write: 0.000021 sec
+total time: 0.000029 sec
+=====================================
+loop: 4, upload size: 16
+read: 0.000001 sec
+write: 0.000067 sec
+total time: 0.000068 sec
+=====================================
+loop: 5, download size: 12
+read: 0.000013 sec
+write: 0.000035 sec
+total time: 0.000048 sec
+=====================================
+loop: 6, upload size: 14
+read: 0.000005 sec
+write: 0.000106 sec
+total time: 0.000111 sec
+=====================================
+loop: 7, download size: 29
+read: 0.000008 sec
+write: 0.000031 sec
+total time: 0.000039 sec
+=====================================
+loop: 8, upload size: 34
+read: 0.000001 sec
+write: 0.000074 sec
+total time: 0.000075 sec
+=====================================
+loop: 9, download size: 38
+read: 0.000005 sec
+write: 0.000021 sec
+total time: 0.000026 sec
+=====================================
+loop: 10, upload size: 13
+read: 0.000004 sec
+write: 0.000086 sec
+total time: 0.000090 sec
+=====================================
+loop: 11, download size: 34
+read: 0.000009 sec
+write: 0.000026 sec
+total time: 0.000035 sec
+=====================================
+loop: 12, upload size: 8
+read: 0.000002 sec
+write: 0.000105 sec
+total time: 0.000107 sec
+=====================================
+loop: 13, download size: 20
+read: 0.000004 sec
+write: 0.000021 sec
+total time: 0.000025 sec
+=====================================
+loop: 14, upload size: 6
+read: 0.000001 sec
+write: 0.000118 sec
+total time: 0.000119 sec
+=====================================
+loop: 15, download size: 51
+loop: 0, download size: 1452
+read: 0.000006 sec
+write: 0.000044 sec
+total time: 0.000050 sec
+=====================================
+loop: 1, download size: 1452
+read: 0.000020 sec
+write: 0.000027 sec
+total time: 0.000047 sec
+=====================================
+loop: 2, download size: 2048
+read: 0.000101 sec
+write: 0.000063 sec
+total time: 0.000164 sec
+=====================================
+loop: 3, download size: 972
+read: 0.000003 sec
+write: 0.000011 sec
+total time: 0.000014 sec
+=====================================
+
+a file finishing
+
+loop: 0, upload size: 10
+read: 0.000002 sec
+write: 0.000115 sec
+total time: 0.000117 sec
+=====================================
+loop: 1, download size: 36
+read: 0.000006 sec
+write: 0.000021 sec
+total time: 0.000027 sec
+=====================================
+loop: 2, upload size: 10
+read: 0.000002 sec
+write: 0.000104 sec
+total time: 0.000106 sec
+=====================================
+loop: 3, download size: 30
+read: 0.000008 sec
+write: 0.000021 sec
+total time: 0.000029 sec
+=====================================
+loop: 4, upload size: 16
+read: 0.000001 sec
+write: 0.000067 sec
+total time: 0.000068 sec
+=====================================
+loop: 5, download size: 12
+read: 0.000013 sec
+write: 0.000035 sec
+total time: 0.000048 sec
+=====================================
+loop: 6, upload size: 14
+read: 0.000005 sec
+write: 0.000106 sec
+total time: 0.000111 sec
+=====================================
+loop: 7, download size: 29
+read: 0.000008 sec
+write: 0.000031 sec
+total time: 0.000039 sec
+=====================================
+loop: 8, upload size: 34
+read: 0.000001 sec
+write: 0.000074 sec
+total time: 0.000075 sec
+=====================================
+loop: 9, download size: 38
+read: 0.000005 sec
+write: 0.000021 sec
+total time: 0.000026 sec
+=====================================
+loop: 10, upload size: 13
+read: 0.000004 sec
+write: 0.000086 sec
+total time: 0.000090 sec
+=====================================
+loop: 11, download size: 34
+read: 0.000009 sec
+write: 0.000026 sec
+total time: 0.000035 sec
+=====================================
+loop: 12, upload size: 8
+read: 0.000002 sec
+write: 0.000105 sec
+total time: 0.000107 sec
+=====================================
+loop: 13, download size: 20
+read: 0.000004 sec
+write: 0.000021 sec
+total time: 0.000025 sec
+=====================================
+loop: 14, upload size: 6
+read: 0.000001 sec
+write: 0.000118 sec
+total time: 0.000119 sec
+=====================================
+loop: 15, download size: 51
+read: 0.000005 sec
+write: 0.000100 sec
+total time: 0.000105 sec
+=====================================
+loop: 16, upload size: 16
+read: 0.000006 sec
+write: 0.000104 sec
+total time: 0.000110 sec
+=====================================
+loop: 17, download size: 56
+read: 0.000009 sec
+write: 0.000022 sec
+total time: 0.000031 sec
+=====================================
+loop: 18, download size: 64
+read: 0.000016 sec
+write: 0.000023 sec
+total time: 0.000039 sec
+=====================================
+loop: 19, upload size: 6
+read: 0.000003 sec
+write: 0.000123 sec
+total time: 0.000126 sec
+=====================================
+loop: 20, download size: 51
+loop: 0, upload size: 2048
+read: 0.000004 sec
+write: 0.000087 sec
+total time: 0.000091 sec
+=====================================
+loop: 1, upload size: 2048
+read: 0.000002 sec
+write: 0.000053 sec
+total time: 0.000055 sec
+=====================================
+loop: 2, upload size: 2048
+read: 0.000002 sec
+write: 0.000024 sec
+total time: 0.000026 sec
+=====================================
+loop: 3, upload size: 1381
+read: 0.000003 sec
+write: 0.000021 sec
+total time: 0.000024 sec
+=====================================
+
+a file finishing
+
+loop: 0, upload size: 10
+read: 0.000002 sec
+write: 0.000115 sec
+total time: 0.000117 sec
+=====================================
+loop: 1, download size: 36
+read: 0.000006 sec
+write: 0.000021 sec
+total time: 0.000027 sec
+=====================================
+loop: 2, upload size: 10
+read: 0.000002 sec
+write: 0.000104 sec
+total time: 0.000106 sec
+=====================================
+loop: 3, download size: 30
+read: 0.000008 sec
+write: 0.000021 sec
+total time: 0.000029 sec
+=====================================
+loop: 4, upload size: 16
+read: 0.000001 sec
+write: 0.000067 sec
+total time: 0.000068 sec
+=====================================
+loop: 5, download size: 12
+read: 0.000013 sec
+write: 0.000035 sec
+total time: 0.000048 sec
+=====================================
+loop: 6, upload size: 14
+read: 0.000005 sec
+write: 0.000106 sec
+total time: 0.000111 sec
+=====================================
+loop: 7, download size: 29
+read: 0.000008 sec
+write: 0.000031 sec
+total time: 0.000039 sec
+=====================================
+loop: 8, upload size: 34
+read: 0.000001 sec
+write: 0.000074 sec
+total time: 0.000075 sec
+=====================================
+loop: 9, download size: 38
+read: 0.000005 sec
+write: 0.000021 sec
+total time: 0.000026 sec
+=====================================
+loop: 10, upload size: 13
+read: 0.000004 sec
+write: 0.000086 sec
+total time: 0.000090 sec
+=====================================
+loop: 11, download size: 34
+read: 0.000009 sec
+write: 0.000026 sec
+total time: 0.000035 sec
+=====================================
+loop: 12, upload size: 8
+read: 0.000002 sec
+write: 0.000105 sec
+total time: 0.000107 sec
+=====================================
+loop: 13, download size: 20
+read: 0.000004 sec
+write: 0.000021 sec
+total time: 0.000025 sec
+=====================================
+loop: 14, upload size: 6
+read: 0.000001 sec
+write: 0.000118 sec
+total time: 0.000119 sec
+=====================================
+loop: 15, download size: 51
+read: 0.000005 sec
+write: 0.000100 sec
+total time: 0.000105 sec
+=====================================
+loop: 16, upload size: 16
+read: 0.000006 sec
+write: 0.000104 sec
+total time: 0.000110 sec
+=====================================
+loop: 17, download size: 56
+read: 0.000009 sec
+write: 0.000022 sec
+total time: 0.000031 sec
+=====================================
+loop: 18, download size: 64
+read: 0.000016 sec
+write: 0.000023 sec
+total time: 0.000039 sec
+=====================================
+loop: 19, upload size: 6
+read: 0.000003 sec
+write: 0.000123 sec
+total time: 0.000126 sec
+=====================================
+loop: 20, download size: 51
+read: 0.000008 sec
+write: 0.000102 sec
+total time: 0.000110 sec
+=====================================
+loop: 21, upload size: 6
+read: 0.000003 sec
+write: 0.000107 sec
+total time: 0.000110 sec
+=====================================
+loop: 22, download size: 51
+read: 0.000010 sec
+write: 0.000030 sec
+total time: 0.000040 sec
+=====================================
+loop: 23, download size: 64
+read: 0.000013 sec
+write: 0.000019 sec
+total time: 0.000032 sec
+=====================================
+loop: 24, upload size: 6
+read: 0.000005 sec
+write: 0.000130 sec
+total time: 0.000135 sec
+=====================================
+loop: 25, download size: 51
+loop: 0, upload size: 10
+read: 0.000002 sec
+write: 0.000115 sec
+total time: 0.000117 sec
+=====================================
+loop: 1, download size: 36
+read: 0.000006 sec
+write: 0.000021 sec
+total time: 0.000027 sec
+=====================================
+loop: 2, upload size: 10
+read: 0.000002 sec
+write: 0.000104 sec
+total time: 0.000106 sec
+=====================================
+loop: 3, download size: 30
+read: 0.000008 sec
+write: 0.000021 sec
+total time: 0.000029 sec
+=====================================
+loop: 4, upload size: 16
+read: 0.000001 sec
+write: 0.000067 sec
+total time: 0.000068 sec
+=====================================
+loop: 5, download size: 12
+read: 0.000013 sec
+write: 0.000035 sec
+total time: 0.000048 sec
+=====================================
+loop: 6, upload size: 14
+read: 0.000005 sec
+write: 0.000106 sec
+total time: 0.000111 sec
+=====================================
+loop: 7, download size: 29
+read: 0.000008 sec
+write: 0.000031 sec
+total time: 0.000039 sec
+=====================================
+loop: 8, upload size: 34
+read: 0.000001 sec
+write: 0.000074 sec
+total time: 0.000075 sec
+=====================================
+loop: 9, download size: 38
+read: 0.000005 sec
+write: 0.000021 sec
+total time: 0.000026 sec
+=====================================
+loop: 10, upload size: 13
+read: 0.000004 sec
+write: 0.000086 sec
+total time: 0.000090 sec
+=====================================
+loop: 11, download size: 34
+read: 0.000009 sec
+write: 0.000026 sec
+total time: 0.000035 sec
+=====================================
+loop: 12, upload size: 8
+read: 0.000002 sec
+write: 0.000105 sec
+total time: 0.000107 sec
+=====================================
+loop: 13, download size: 20
+read: 0.000004 sec
+write: 0.000021 sec
+total time: 0.000025 sec
+=====================================
+loop: 14, upload size: 6
+read: 0.000001 sec
+write: 0.000118 sec
+total time: 0.000119 sec
+=====================================
+loop: 15, download size: 51
+read: 0.000005 sec
+write: 0.000100 sec
+total time: 0.000105 sec
+=====================================
+loop: 16, upload size: 16
+read: 0.000006 sec
+write: 0.000104 sec
+total time: 0.000110 sec
+=====================================
+loop: 17, download size: 56
+read: 0.000009 sec
+write: 0.000022 sec
+total time: 0.000031 sec
+=====================================
+loop: 18, download size: 64
+read: 0.000016 sec
+write: 0.000023 sec
+total time: 0.000039 sec
+=====================================
+loop: 19, upload size: 6
+read: 0.000003 sec
+write: 0.000123 sec
+total time: 0.000126 sec
+=====================================
+loop: 20, download size: 51
+read: 0.000008 sec
+write: 0.000102 sec
+total time: 0.000110 sec
+=====================================
+loop: 21, upload size: 6
+read: 0.000003 sec
+write: 0.000107 sec
+total time: 0.000110 sec
+=====================================
+loop: 22, download size: 51
+read: 0.000010 sec
+write: 0.000030 sec
+total time: 0.000040 sec
+=====================================
+loop: 23, download size: 64
+read: 0.000013 sec
+write: 0.000019 sec
+total time: 0.000032 sec
+=====================================
+loop: 24, upload size: 6
+read: 0.000005 sec
+write: 0.000130 sec
+total time: 0.000135 sec
+=====================================
+loop: 25, download size: 51
+read: 0.000004 sec
+write: 0.000092 sec
+total time: 0.000096 sec
+=====================================
+loop: 26, upload size: 16
+read: 0.000005 sec
+write: 0.000112 sec
+total time: 0.000117 sec
+=====================================
+loop: 27, download size: 56
+read: 0.000018 sec
+write: 0.000021 sec
+total time: 0.000039 sec
+=====================================
+loop: 28, download size: 64
+read: 0.000007 sec
+write: 0.000034 sec
+total time: 0.000041 sec
+=====================================
+loop: 29, upload size: 6
+read: 0.000003 sec
+write: 0.000129 sec
+total time: 0.000132 sec
+=====================================
+loop: 30, download size: 51
+read: 0.000006 sec
+write: 0.000119 sec
+total time: 0.000125 sec
+=====================================
+loop: 31, upload size: 6
+read: 0.000003 sec
+write: 0.000106 sec
+total time: 0.000109 sec
+=====================loop: 0, download size: 1452
+read: 0.000005 sec
+write: 0.000034 sec
+total time: 0.000039 sec
+=====================================
+loop: 1, download size: 1452
+read: 0.000029 sec
+write: 0.000043 sec
+total time: 0.000072 sec
+=====================================
+loop: 2, download size: 1452
+read: 0.000015 sec
+write: 0.000030 sec
+total time: 0.000045 sec
+=====================================
+loop: 3, download size: 1452
+read: 0.000013 sec
+write: 0.000023 sec
+total time: 0.000036 sec
+=====================================
+loop: 4, download size: 183
+read: 0.000066 sec
+write: 0.000029 sec
+total time: 0.000095 sec
+=====================================
+
+a file finishing
+
+loop: 0, upload size: 10
+read: 0.000002 sec
+write: 0.000115 sec
+total time: 0.000117 sec
+=====================================
+loop: 1, download size: 36
+read: 0.000006 sec
+write: 0.000021 sec
+total time: 0.000027 sec
+=====================================
+loop: 2, upload size: 10
+read: 0.000002 sec
+write: 0.000104 sec
+total time: 0.000106 sec
+=====================================
+loop: 3, download size: 30
+read: 0.000008 sec
+write: 0.000021 sec
+total time: 0.000029 sec
+=====================================
+loop: 4, upload size: 16
+read: 0.000001 sec
+write: 0.000067 sec
+total time: 0.000068 sec
+=====================================
+loop: 5, download size: 12
+read: 0.000013 sec
+write: 0.000035 sec
+total time: 0.000048 sec
+=====================================
+loop: 6, upload size: 14
+read: 0.000005 sec
+write: 0.000106 sec
+total time: 0.000111 sec
+=====================================
+loop: 7, download size: 29
+read: 0.000008 sec
+write: 0.000031 sec
+total time: 0.000039 sec
+=====================================
+loop: 8, upload size: 34
+read: 0.000001 sec
+write: 0.000074 sec
+total time: 0.000075 sec
+=====================================
+loop: 9, download size: 38
+read: 0.000005 sec
+write: 0.000021 sec
+total time: 0.000026 sec
+=====================================
+loop: 10, upload size: 13
+read: 0.000004 sec
+write: 0.000086 sec
+total time: 0.000090 sec
+=====================================
+loop: 11, download size: 34
+read: 0.000009 sec
+write: 0.000026 sec
+total time: 0.000035 sec
+=====================================
+loop: 12, upload size: 8
+read: 0.000002 sec
+write: 0.000105 sec
+total time: 0.000107 sec
+=====================================
+loop: 13, download size: 20
+read: 0.000004 sec
+write: 0.000021 sec
+total time: 0.000025 sec
+=====================================
+loop: 14, upload size: 6
+read: 0.000001 sec
+write: 0.000118 sec
+total time: 0.000119 sec
+=====================================
+loop: 15, download size: 51
+read: 0.000005 sec
+write: 0.000100 sec
+total time: 0.000105 sec
+=====================================
+loop: 16, upload size: 16
+read: 0.000006 sec
+write: 0.000104 sec
+total time: 0.000110 sec
+=====================================
+loop: 17, download size: 56
+read: 0.000009 sec
+write: 0.000022 sec
+total time: 0.000031 sec
+=====================================
+loop: 18, download size: 64
+read: 0.000016 sec
+write: 0.000023 sec
+total time: 0.000039 sec
+=====================================
+loop: 19, upload size: 6
+read: 0.000003 sec
+write: 0.000123 sec
+total time: 0.000126 sec
+=====================================
+loop: 20, download size: 51
+read: 0.000008 sec
+write: 0.000102 sec
+total time: 0.000110 sec
+=====================================
+loop: 21, upload size: 6
+read: 0.000003 sec
+write: 0.000107 sec
+total time: 0.000110 sec
+=====================================
+loop: 22, download size: 51
+read: 0.000010 sec
+write: 0.000030 sec
+total time: 0.000040 sec
+=====================================
+loop: 23, download size: 64
+read: 0.000013 sec
+write: 0.000019 sec
+total time: 0.000032 sec
+=====================================
+loop: 24, upload size: 6
+read: 0.000005 sec
+write: 0.000130 sec
+total time: 0.000135 sec
+=====================================
+loop: 25, download size: 51
+read: 0.000004 sec
+write: 0.000092 sec
+total time: 0.000096 sec
+=====================================
+loop: 26, upload size: 16
+read: 0.000005 sec
+write: 0.000112 sec
+total time: 0.000117 sec
+=====================================
+loop: 27, download size: 56
+read: 0.000018 sec
+write: 0.000021 sec
+total time: 0.000039 sec
+=====================================
+loop: 28, download size: 64
+read: 0.000007 sec
+write: 0.000034 sec
+total time: 0.000041 sec
+=====================================
+loop: 29, upload size: 6
+read: 0.000003 sec
+write: 0.000129 sec
+total time: 0.000132 sec
+=====================================
+loop: 30, download size: 51
+================
+loop: 32, download size: 51
+read: 0.000029 sec
+write: 0.000050 sec
+total time: 0.000079 sec
+=====================================
+loop: 33, download size: 64
+read: 0.000002 sec
+write: 0.000014 sec
+total time: 0.000016 sec
+=====================================
+
+a file finishing
+
